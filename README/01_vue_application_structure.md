@@ -4,7 +4,7 @@ Ini adalah bab pertama dari tutorial **Job Application Tracker**. Di sini kamu a
 
 ---
 
-## 🔧 Apa Itu Struktur Aplikasi?
+## Apa Itu Struktur Aplikasi?
 
 Struktur aplikasi menentukan bagaimana file dan komponen saling terhubung. Tujuannya agar kode rapi, mudah dipahami, dan terorganisir. Dalam aplikasi Vue, kita biasanya memiliki:
 
@@ -15,7 +15,7 @@ Struktur aplikasi menentukan bagaimana file dan komponen saling terhubung. Tujua
 
 ---
 
-## 🧩 Alur Awal Aplikasi
+## Alur Awal Aplikasi
 
 1. Browser memuat `index.html`.
 2. `main.js` dijalankan, membuat instance Vue.
@@ -25,7 +25,7 @@ Struktur aplikasi menentukan bagaimana file dan komponen saling terhubung. Tujua
 
 ---
 
-## 🔍 Ringkasan File
+## Ringkasan File
 
 | File                | Fungsi                                 |
 |---------------------|-----------------------------------------|
@@ -36,7 +36,7 @@ Struktur aplikasi menentukan bagaimana file dan komponen saling terhubung. Tujua
 
 ---
 
-## 🚀 Kesimpulan
+## Kesimpulan
 
 Bab ini membahas fondasi aplikasi Vue: bagaimana aplikasi dimulai, dan bagaimana struktur file saling terhubung.  
 Selanjutnya, kita akan membahas lebih dalam soal [Vue Router](README/02_vue_router.md) untuk navigasi antar halaman.
