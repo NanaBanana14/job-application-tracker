@@ -96,7 +96,7 @@ flowchart TD
 
 ## Cara Menjalankan Proyek
 
-### 1. Kloning Repositori
+### 1. Cloning Repository
 
 ```bash
 git clone https://github.com/nama-anda/job-application-tracker.git
@@ -112,7 +112,7 @@ npm install
 ### 3. Tambahkan Token Replicate ke `.env`
 
 ```env
-VITE_REPLICATE_API_TOKEN=token_anda_disini
+REPLICATE_API_TOKEN=token_anda_disini
 ```
 
 ### 4. Jalankan Aplikasi (Mode Development)
