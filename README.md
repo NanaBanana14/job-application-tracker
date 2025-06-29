@@ -34,14 +34,14 @@ flowchart TD
 
 ## Daftar Bab
 
-1. [Struktur Aplikasi Vue](01_vue_application_structure_.md)
-2. [Vue Router](02_vue_router_.md)
-3. [Komponen Vue (Single File Component)](03_vue_components__single_file_components__.md)
-4. [Manajemen Data Lamaran (LocalStorage)](04_job_data_management__localstorage__.md)
-5. [Komponen Form Lamaran (`JobForm.vue`)](05_job_form_component___jobform_vue___.md)
-6. [Komponen Daftar Lamaran (`ListLamaran.vue`)](06_job_list_component___listlamaran_vue___.md)
-7. [Vue Composition API (`<script setup>`)](07_vue_composition_api____script_setup____.md)
-8. [Tailwind CSS](08_tailwind_css_.md)
+1. [Struktur Aplikasi Vue](README/01_vue_application_structure.md)
+2. [Vue Router](README/02_vue_router.md)
+3. [Komponen Vue (Single File Component)](README/03_vue_components_single_file_components.md)
+4. [Manajemen Data Lamaran (LocalStorage)](README/04_job_data_management_localstorage.md)
+5. [Komponen Form Lamaran (`JobForm.vue`)](README/05_job_form_component_jobform_vue.md)
+6. [Komponen Daftar Lamaran (`ListLamaran.vue`)](README/06_job_list_component_listlamaran_vue.md)
+7. [Vue Composition API (`<script setup>`)](README/07_vue_composition_api_script_setup.md)
+8. [Tailwind CSS](README/08_tailwind_css.md)
 
 
 ## Recommended IDE Setup
